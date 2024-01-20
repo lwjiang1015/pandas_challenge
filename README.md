@@ -19,7 +19,12 @@ Use the school complete dataset to get the variables school type and total stude
 
 Calculated the following: the per capita spending, the average test scores per school, the number of students with maths scores of 50 or higher by school, the number of students with reading scores of 50 or higher by school, the number of students that passed both maths and reading by school, and thereof, the passing rates.
 
-Created a new DataFrame "per_school_summary"
+Created a new DataFrame "finalmerged_school_summary"
+
+Tided up the finalmerged_school_summary to match the screenshot in the starter script by deleting the unpresented columns (numberpassingmaths, numberpassingreading and numberpassingoverall) and sort by school_name
+
+The final school summary DataFrame after formatting the column names called "formatted_school_summary_sorted"
+
 
 ### Highest-Performing Schools by Percentage of Overall Passing
 
